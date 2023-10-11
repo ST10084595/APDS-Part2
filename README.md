@@ -1,6 +1,6 @@
 # APDS-Part2
 
-Aplications Development Software
+Applications Development Software
 -----------------------------------------------------
 DEVELOPER: Kaydn Naidoo
 
